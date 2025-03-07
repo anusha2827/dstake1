@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-25T18:12:32 IST" name="Default suite" finished-at="2024-06-25T18:13:03 IST" duration-ms="31571">
+    <groups>
+    </groups>
+    <test started-at="2024-06-25T18:12:32 IST" name="Default test" finished-at="2024-06-25T18:13:03 IST" duration-ms="31571">
+      <class name="day7.TestLogin">
+        <test-method signature="test_Invoice_arrows()[pri:0, instance:day7.TestLogin@52b1beb6]" started-at="2024-06-25T18:12:32 IST" name="test_Invoice_arrows" finished-at="2024-06-25T18:13:03 IST" duration-ms="31526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Invoice_arrows -->
+      </class> <!-- day7.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
